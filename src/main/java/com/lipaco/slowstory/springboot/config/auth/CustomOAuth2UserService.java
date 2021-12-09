@@ -1,5 +1,6 @@
 package com.lipaco.slowstory.springboot.config.auth;
 import com.lipaco.slowstory.springboot.config.auth.dto.OAuthAttributes;
+import com.lipaco.slowstory.springboot.config.auth.dto.SessionUser;
 import com.lipaco.slowstory.springboot.domain.user.User;
 import com.lipaco.slowstory.springboot.domain.user.UserRepository;
 import lombok.RequiredArgsConstructor;
