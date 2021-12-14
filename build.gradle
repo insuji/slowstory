@@ -36,7 +36,7 @@ dependencies {
 }
 
 springBoot {
-	mainClassName = 'com.lipaco.slowstory.SlowstoryApplication'
+	mainClass = 'com.lipaco.slowstory.SlowstoryApplication'
 }
 
 
