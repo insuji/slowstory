@@ -35,6 +35,11 @@ dependencies {
 
 }
 
+springBoot {
+	mainClassName = 'com.lipaco.slowstory.SlowstoryApplication'
+}
+
+
 test {
 	useJUnitPlatform()
 }
